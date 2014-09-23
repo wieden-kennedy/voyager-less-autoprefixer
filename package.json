@@ -1,6 +1,6 @@
 {
   "name": "voyager-less-autoprefixer",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Less with autoprefixer task for voyager",
   "main": "index.js",
   "author": "David Glivar <davidglivar@gmail.com>",
