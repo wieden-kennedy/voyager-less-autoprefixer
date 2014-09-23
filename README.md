@@ -1,4 +1,4 @@
-voyager-less
-==============
+voyager-less-autoprefixer
+=========================
 
-Less task for [voyager](https://github.com/davidglivar/voyager).
+Less task with autoprefixer for [voyager](https://github.com/davidglivar/voyager).
