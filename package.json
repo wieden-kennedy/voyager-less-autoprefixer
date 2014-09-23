@@ -1,0 +1,18 @@
+{
+  "name": "voyager-less-autoprefixer",
+  "version": "0.1.0",
+  "description": "Less with autoprefixer task for voyager",
+  "main": "index.js",
+  "author": "David Glivar <davidglivar@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:davidglivar/voyager-less-autoprefixer.git"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^1.0.1",
+    "gulp-csso": "^0.2.9",
+    "gulp-less": "^1.3.6",
+    "gulp-plumber": "^0.6.5"
+  }
+}
