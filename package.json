@@ -1,6 +1,6 @@
 {
   "name": "voyager-less-autoprefixer",
-  "version": "0.1.1",
+  "version": "0.1.11",
   "description": "Less task with autoprefixer for voyager",
   "keywords": [
     "voyager", "less", "csso", "autoprefixer", "task"
